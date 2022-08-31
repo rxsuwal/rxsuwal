@@ -20,18 +20,11 @@
 - 🌱 Learning all about **Next JS**, **Flutter**
 - 💬 Ping me about **HTML**, **CSS**, **JS**, **RestAPIs**, **Bootstrap**,**Tailwind CSS**,**React**
 - 📫 Reach me: [linkedin.com/in/rsuwal](linkedin.com/in/rsuwal)
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 Checkout my [resume](files/resume.pdf).
 
 #### My Current Stack
 
-<img height="48" src="img/html5.svg" alt="python"> 
-<img height="48" src="img/css3.svg" alt="Django"> 
-<img height="48" src="img/js.svg" alt="postgress"> 
-<img height="48" src="img/bootstrap.png" alt="Docker"> 
-<img height="48" src="img/tailwindcss.png" alt="linux"> 
-<img height="48" src="img/redux.png" alt="nginx">  
-<img height="48" src="img/react-original.svg" alt="react">
-<img height="48" src="img/nextjs.png" alt="react">
+<img height="48" src="img/html5.png" alt="html"> <img height="48" src="img/css3.png" alt="css"> <img height="48" src="img/js.svg" alt="js"> <img height="48" src="img/bootstrap.png" alt="bootstrap"> <img height="48" src="img/tailwindcss.png" alt="tailwind css"> <img height="48" src="img/nodejs.png" alt="mode js"> <img height="48" src="img/npm.png" alt="npm"> <img height="48" src="img/redux.png" alt="redux">  <img height="48" src="img/react-original.svg" alt="react"> <img height="48" src="img/nextjs.png" alt="next js">
 
 #### Development Stuffs:
 
@@ -41,19 +34,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxsuwal&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<b>&#128200; Competitive Programming</b>
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/rxsuwal?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
-</p>
 
-#### Recent Activity
-
-<p><b> &#9749; Latest Medium Blogs</b></p>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0" alt="Latest medium article">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Latest medium article"> </a>
 
 #### Connect With Me
 
