@@ -14,7 +14,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at [**CellPay**](https://cellpay.com.np)
+- 🏢 I'm currently working at [**Fourth Valley Concierge Corporation**](https://cellpay.com.np)
 - ⚙️ I use daily: `.html`, `.js`, `.css`, `.jsx`
 - 🌍 I'm mostly active within the **Dev Community**
 - 🌱 Learning all about **Next JS**, **Flutter**
