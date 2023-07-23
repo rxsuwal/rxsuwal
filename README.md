@@ -19,7 +19,7 @@
 - 🌍 I'm mostly active within the **Dev Community**
 - 🌱 Learning all about **Next JS**, **Flutter**
 - 💬 Ping me about **HTML**, **CSS**, **JS**, **RestAPIs**, **Bootstrap**,**Tailwind CSS**,**React**
-- 📫 Reach me: [linkedin.com/in/rsuwal](linkedin.com/in/rsuwal)
+- 📫 Reach me: [**linkedin.com/in/rsuwal**](https://linkedin.com/in/rsuwal)
 - 📝 Checkout my [resume](files/resume.pdf).
 
 #### My Current Stack
