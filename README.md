@@ -13,11 +13,10 @@
 
 
 #### Bio
-
-- 🏢 I'm currently working at [**Fourth Valley Concierge Corporation**](https://4th-valley.com)
-- ⚙️ I use daily: `.html`, `.js`, `.css`, `.jsx`
-- 🌍 I'm mostly active within the **Dev Community**
-- 🌱 Learning all about **Next JS**, **Flutter**
+.
+- 🏢 I'm currently looking for part-time/freelance/full-time position
+- ⚙️ I use daily: `.html`, `.js`, `.css`, `.jsx`.
+- 🌱 Learning all about **Next JS**, **NodeJS**
 - 💬 Ping me about **HTML**, **CSS**, **JS**, **RestAPIs**, **Bootstrap**,**Tailwind CSS**,**React**
 - 📫 Reach me: [**linkedin.com/in/rsuwal**](https://linkedin.com/in/rsuwal)
 - 📝 Checkout my [resume](https://flowcv.com/resume/i6siv1ocjv).
