@@ -1,4 +1,4 @@
-## Hi 👋, I'm a Web Developer working in Kathmandu, Nepal
+## Hi 👋, I'm a Web Developer currently in Cardiff, Wales, The United Kingdom
 
 <p align="left">
   
@@ -20,7 +20,7 @@
 - 🌱 Learning all about **Next JS**, **Flutter**
 - 💬 Ping me about **HTML**, **CSS**, **JS**, **RestAPIs**, **Bootstrap**,**Tailwind CSS**,**React**
 - 📫 Reach me: [**linkedin.com/in/rsuwal**](https://linkedin.com/in/rsuwal)
-- 📝 Checkout my [resume](files/resume.pdf).
+- 📝 Checkout my [resume](https://flowcv.com/resume/i6siv1ocjv).
 
 #### My Current Stack
 
